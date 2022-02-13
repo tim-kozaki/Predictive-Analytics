@@ -28,7 +28,7 @@ What is <b>Data</b> and why does everyone care so much about it? The Oxford Dict
 
 First of all, we need a destination. What is the problem that you are trying to solve? Domain knowledge and understanding of the problem is very important in trying to find solutions. Before embarking on a project, <b>define your goal.</b>  
 
-"A car without a destination is useless".
+"A car without a destination is useless". 
 
 ----------------------
 
